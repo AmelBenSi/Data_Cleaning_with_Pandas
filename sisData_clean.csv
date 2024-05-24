@@ -1,0 +1,189 @@
+location,highest_educational_level,all_qualifications,major,university,country,nyears_exp,certificate,research,curriculum_dev,class
+london,mba and ma,bachelor masters,international affairs,american university of beirut,lebanon,38.0,0,0,0,industry and teaching experience
+london,msc,certificate bachelor masters,business information technology,university of northumbria,uk,24.0,1,0,0,industry and teaching experience
+london,mba,certificate bachelor diploma masters,marketing,griffith university,australia,18.0,0,0,0,industry and teaching experience
+london,phd,bachelor masters,hrm and organizational psychology,university of swansea,uk,12.0,0,1,0,industry and teaching experience
+london,phd,bachelor masters,economics and international business,new york university,usa,25.0,0,1,1,industry and teaching experience
+liverpool,dba,certificate bachelor masters phd,business,lyceum of philippines,philippines,22.5,0,0,0,industry experience
+liverpool,masters,certificate bachelor masters,business,university of newcastle,australia,17.0,1,0,0,industry and teaching experience
+liverpool,msc,masters,public administration and public policy,university of london,uk,35.0,0,0,0,industry and teaching experience
+liverpool,phd,bachelor masters phd,commerce and management studies,andhra univesity,india,17.0,0,0,0,industry and teaching experience
+liverpool,mba,bachelor masters,business administration,university of ibadan,nigeria,10.0,0,0,0,industry and teaching experience
+liverpool,mba,bachelor masters,general business administration,university of hull,uk,35.0,0,0,0,industry and teaching experience
+liverpool,mba,certificate bachelor masters,public administration,university of birmingham,uk,22.5,0,0,0,industry experience
+liverpool,mba,masters,business,university of kwazulunatal,south africa,36.0,0,0,0,industry and teaching experience
+liverpool,phd,masters phd,economics,universityof kerala,india,22.5,0,1,0,industry experience
+liverpool,masters,masters,business education,friedrich schiller university jena,germany,22.5,0,0,0,industry experience
+liverpool,phd,masters phd,finance,mohammad ali jinnah university,pakistan,11.0,0,0,0,industry and teaching experience
+liverpool,dba,bachelor masters,economics and management,jackson state university,usa,26.0,0,0,0,industry and teaching experience
+liverpool,dba,bachelor masters,finance,university of paris sud 11,france,15.0,0,0,0,industry and teaching experience
+manchester,mcom,bachelor masters,commerce and accounting,university of delhi,india,54.0,0,0,0,industry and teaching experience
+manchester,mba,bachelor diploma masters,executive mba,rmit university,australia,22.5,1,0,0,industry experience
+manchester,mba,bachelor masters,human resource management,bharathiar university,india,13.0,0,0,0,industry and teaching experience
+manchester,phd,certificate bachelor masters phd,psychology,universityof kerala,india,22.5,1,0,0,industry experience
+manchester,masters,certificate bachelor diploma masters,international business,university of wollongong,australia,22.5,1,0,0,industry experience
+manchester,mba,bachelor masters,leadership and management,brenau university,usa,22.5,1,0,0,industry experience
+manchester,phd,bachelor diploma masters phd,commerce,university of south africa,south africa,22.5,0,0,0,industry experience
+manchester,mba,bachelor masters,business management,university of warwick,uk,15.0,0,0,0,industry and teaching experience
+manchester,mba,bachelor masters,management,university of keele,uk,22.5,0,0,0,industry experience
+manchester,masters,bachelor masters,international marketing,syddansk university,denmark,22.5,0,0,0,industry experience
+manchester,mba,bachelor masters,international management,thunderbird school of global management,usa,31.0,0,0,0,industry and teaching experience
+manchester,phd,bachelor diploma masters phd,ebusiness policy development,de montfort university,uk,22.5,0,0,0,industry experience
+manchester,masters,bachelor masters,quality management,university of wollongong,australia,22.5,0,0,0,industry experience
+manchester,phd,bachelor masters phd,professional studies,middlesex university,uk,22.5,0,0,0,industry experience
+manchester,mba,certificate bachelor masters,business administration,aston university,uk,22.5,1,0,0,industry experience
+manchester,mba,certificate diploma masters,accounting and finance,university of east london,uk,22.5,1,0,0,industry experience
+manchester,phd,certificate bachelor masters phd,business management,university of sunshine coast,australia,22.5,0,0,0,industry experience
+bristol,mba,masters,general management,university of wollongong,australia,22.5,0,0,0,industry experience
+bristol,phd,masters phd,human resource management,university of southern mississippi,usa,13.0,0,0,0,industry and teaching experience
+bristol,phd,certificate bachelor diploma masters phd,business,university of western sydney,australia,11.0,0,0,0,industry and teaching experience
+bristol,masters,bachelor masters,marketing,university of newcastle,australia,19.0,0,0,0,industry and teaching experience
+bristol,phd,bachelor masters phd,business,madurai kamaraj university,india,15.0,0,0,0,industry and teaching experience
+bristol,masters,certificate bachelor diploma masters,operation management,university of western sydney,australia,16.0,0,0,0,industry and teaching experience
+bristol,masters,bachelor diploma masters,management,massey university,new zealand,15.0,0,0,0,industry and teaching experience
+bristol,mba,masters,management,university of miami,usa,20.0,1,0,0,industry and teaching experience
+bristol,mba,masters phd,business administration,southern new hampshire university,usa,24.0,0,0,0,industry and teaching experience
+bristol,llm,bachelor masters,commericial and corporate law,unversity college of london,uk,20.0,1,0,0,industry and teaching experience
+bristol,masters,bachelor diploma masters,logistics engineering,korea maritime university,southkorea,19.0,0,0,0,industry and teaching experience
+bristol,mba,bachelor masters,business administration,heriot watt university,scotland,22.5,0,0,0,industry experience
+bristol,mba,bachelor masters,business administration,lebanese american university,lebanon,16.0,0,0,0,industry and teaching experience
+bristol,mba,certificate bachelor masters,business administration,university of canberra,australia,26.0,0,0,0,industry and teaching experience
+bristol,mphil,certificate bachelor masters,adult education,university of glasgow,scotland,33.0,1,0,0,industry and teaching experience
+bristol,mba,masters,business administration,glasgow caledonian university,scotland,14.0,0,0,0,industry and teaching experience
+bristol,ma,masters,international business,vilnius university,lithuania,16.0,1,0,0,industry and teaching experience
+bristol,mba,bachelor masters,marketing,university of leicester,uk,29.0,1,0,0,industry and teaching experience
+bristol,mba,bachelor masters,marketing,university of leicester,uk,23.0,1,0,0,industry and teaching experience
+bristol,mba,bachelor masters,international banking and finance,university of birmingham,uk,15.0,0,0,0,industry and teaching experience
+bristol,phd,masters phd,economics,mcgill university,canada,18.0,0,0,0,industry and teaching experience
+bristol,masters,certificate bachelor masters,accounting and finance,st josephs university,usa,21.0,0,0,0,industry and teaching experience
+bristol,mba and mcom,bachelor masters,accounting,university of dhaka,bangladesh,27.0,0,0,0,industry and teaching experience
+bristol,phd,bachelor masters,islamic finance,university of mediterranean,france,15.0,1,1,1,industry and teaching experience
+bristol,phd,bachelor masters,accounting and finance,amman arab university,jordan,25.0,0,0,0,industry and teaching experience
+bristol,phd,bachelor masters,hrm,university of tunis,tunisia,23.0,0,0,0,industry and teaching experience
+bristol,phd,bachelor masters,hrm and organizational behaviour,university of manchester,uk,30.0,0,1,0,industry and teaching experience
+bristol,phd,bachelor masters,finance and economics,rutgers university,usa,42.0,1,0,0,industry and teaching experience
+bristol,phd,bachelor masters,human resource development,pennsylvania state university,usa,22.5,1,0,1,industry experience
+brighton,ma,bachelor masters,teaching,university of memphis,usa,22.5,1,0,0,industry experience
+cardiff,phd,certificate bachelor masters phd,banking,university of wales,wales,15.0,0,0,0,industry and teaching experience
+cardiff,ma,bachelor masters,economics,university of illinois,usa,17.0,0,0,0,industry and teaching experience
+cardiff,masters,bachelor masters,instructional technology,utah state unviersity,usa,31.0,1,0,0,industry and teaching experience
+cardiff,msc,bachelor diploma masters,forensic accounting,university of portsmouth,uk,36.0,1,0,0,industry and teaching experience
+cardiff,mba,certificate diploma masters,total quality management,university of leicester,uk,22.5,0,0,0,industry experience
+cardiff,msc,bachelor masters,business computing science,texas aandm university,usa,40.0,0,0,0,industry and teaching experience
+cardiff,phd,bachelor masters phd,business management,university of edinburgh,scotland,14.0,1,0,0,industry and teaching experience
+cardiff,masters,bachelor diploma masters,criminology and criminal justice,griffith university,australia,25.0,1,0,0,industry and teaching experience
+cardiff,mba,masters,business administration,karnataka state open university,india,19.0,1,0,0,industry and teaching experience
+cardiff,mba,bachelor masters,management,university of california,usa,21.0,0,0,0,industry and teaching experience
+cardiff,ma,bachelor masters,international business,university of wollongong,australia,25.0,1,0,0,industry and teaching experience
+cardiff,phd,certificate bachelor masters phd,management,university of canterbury,new zealand,15.0,1,0,0,industry and teaching experience
+cardiff,masters,bachelor masters,accounting and finance,american university of beirut,lebanon,15.0,0,0,0,industry and teaching experience
+cardiff,msc,bachelor masters,operational research,university of strathclyde,scotland,7.0,0,0,0,industry and teaching experience
+cardiff,mba,diploma masters,international business,university college dublin,irlande,28.0,1,0,0,industry and teaching experience
+cardiff,mba,certificate diploma masters,human resource management,university of new england,usa,20.0,0,0,0,industry and teaching experience
+cardiff,mcom,bachelor masters,commerce,university of wollongong,australia,21.0,1,0,0,industry and teaching experience
+cardiff,masters,bachelor masters,hospitality management,university of houston,usa,22.5,1,0,0,industry experience
+cardiff,phd,bachelor masters,accounting,capella university,usa,23.0,1,0,0,industry and teaching experience
+cardiff,phd,bachelor masters,hrd,university of nebraska,usa,45.0,0,1,0,industry and teaching experience
+belfast,phd,bachelor masters phd,interdisciplinary studies,university of madras,india,14.0,0,0,0,industry and teaching experience
+belfast,phd,certificate bachelor masters phd,human resource management,jrn rajasthan vidyapeeth university,india,11.0,0,0,0,industry and teaching experience
+belfast,mphil,bachelor masters,tourism tourist and hotel management,university of queensland,australia,25.0,1,0,0,industry and teaching experience
+belfast,phd,bachelor masters phd,education,university of central florida,usa,29.0,0,0,0,industry and teaching experience
+belfast,phd,masters phd,management,jj tibrewala university,india,13.0,0,0,0,industry and teaching experience
+belfast,masters,bachelor diploma masters,applied linguistics,university of southern queensland,australia,22.5,0,0,0,industry experience
+belfast,llm,masters,law,university of northumbria,uk,46.0,0,0,0,industry and teaching experience
+belfast,mba,bachelor masters,business administration,university of dhaka,bangladesh,25.0,0,0,0,industry and teaching experience
+belfast,phd,bachelor masters phd,management,devi ahliya vishwavidyalaya,india,21.0,0,0,0,industry and teaching experience
+belfast,phd,bachelor masters phd,organization and leadership,university of san francisco,usa,15.0,0,0,0,industry and teaching experience
+belfast,mba,bachelor masters,business administration,university of madras,india,15.0,0,0,0,industry and teaching experience
+belfast,msc,bachelor masters,international administration,school for intl training,usa,24.0,0,0,0,industry and teaching experience
+belfast,mba,certificate bachelor diploma masters,information technology,auckland university of technol,new zealand,14.0,0,0,0,industry and teaching experience
+belfast,ma,masters,economics,university of national and world economy,bulgaria,24.0,0,0,0,industry and teaching experience
+belfast,phd,bachelor masters phd,commerce,scs viswa mahavidyalaya,india,22.5,0,0,0,industry experience
+belfast,emba,bachelor diploma masters,business,liverpool university,uk,22.5,0,0,0,industry experience
+belfast,masters,bachelor diploma masters,quality management,university of wollongong,australia,22.5,0,0,0,industry experience
+belfast,phd,masters phd,international education,university of incarnate word,usa,22.5,0,0,0,teaching experience
+belfast,phd,certificate bachelor masters phd,accounting,gauhati university,india,19.0,0,0,0,industry and teaching experience
+belfast,mba,certificate bachelor diploma masters,business administration,heriot watt university,scotland,29.0,0,0,0,industry and teaching experience
+belfast,phd,masters phd,business administration,swiss management center,switzerland,33.0,0,0,0,industry and teaching experience
+belfast,masters,bachelor masters,business administration,kent university,uk,22.5,0,0,0,industry experience
+belfast,mba,certificate bachelor masters,business administration,university of san agustin,philippines,22.5,0,0,0,industry experience
+belfast,phd,bachelor masters phd,organisation and it management,capella university,usa,22.5,0,0,0,industry experience
+belfast,ma,masters,international business,hult internationl business school,uk,22.5,0,0,0,industry experience
+belfast,phd,masters phd,management,swiss management center,switzerland,22.5,0,0,0,industry experience
+belfast,mba,bachelor masters,business administration,university of louisville,usa,22.5,0,0,0,industry experience
+belfast,phd,bachelor diploma masters phd,commerce,sndt womens university,india,17.0,0,0,0,industry and teaching experience
+belfast,masters,certificate diploma masters,education,university of southern queensland,australia,32.0,0,0,0,industry and teaching experience
+belfast,mcom,bachelor masters,finance,university of punjab,pakistan,12.0,0,0,0,industry and teaching experience
+belfast,phd,bachelor diploma masters phd,business administration,swiss management center,switzerland,25.0,0,0,0,industry and teaching experience
+belfast,mba,certificate masters,management,birla institute of technology and science,inde,25.0,0,0,0,industry and teaching experience
+belfast,dba,bachelor masters,finance,nova southern university,usa,16.0,0,0,0,industry and teaching experience
+glasgow,mba,certificate bachelor diploma masters,finance,university of leicester,uk,34.0,0,0,0,industry and teaching experience
+glasgow,mba,certificate bachelor diploma masters,executive mba,rmit university,australia,21.0,0,0,0,industry and teaching experience
+glasgow,masters,certificate bachelor masters,international business,massey university,new zealand,22.0,0,0,0,industry and teaching experience
+glasgow,masters,diploma masters,education,university of adelaide,australia,22.5,1,0,0,industry experience
+leeds,phd,certificate bachelor masters phd,ecommerce,northcentral university,usa,25.0,0,0,0,industry and teaching experience
+leeds,mba,bachelor masters,management,mcgill university,canada,18.0,0,0,0,industry and teaching experience
+leeds,mcom,bachelor masters,business marketing,university of mumbai bombay,india,30.0,1,0,0,industry and teaching experience
+leeds,bachelor,bachelor diploma masters,business administration hum resources,kings college london,uk,22.5,0,0,0,industry experience
+leeds,bachelor,bachelor diploma masters,information management,kings college london,uk,22.5,0,0,0,industry experience
+leeds,bachelor,bachelor diploma masters,information management,kings college london,uk,22.5,0,0,0,industry experience
+leeds,msc,bachelor diploma masters,organizational excellence,loughborough university,uk,22.5,0,0,0,industry experience
+leeds,mba,bachelor masters,general management,manuel lquezon university,philippines,22.5,1,0,0,industry experience
+leeds,bas,bachelor diploma masters,general business,stanford university,usa,22.5,0,0,0,industry experience
+leeds,msc,bachelor masters,strategic business and it,university of portsmouth,uk,14.0,0,0,0,industry and teaching experience
+leeds,msc,bachelor masters,engineering,technical university denmark,denmark,21.0,1,0,0,industry and teaching experience
+leeds,mba,bachelor masters,business administration,university of phoenix,usa,21.0,1,0,0,industry and teaching experience
+leeds,bachelor,bachelor diploma masters,information management,kings college london,uk,22.5,0,0,0,industry experience
+leeds,mba,bachelor masters,management information system,arab academy for science and technology,egypte,26.0,0,0,0,industry and teaching experience
+leeds,phd,bachelor masters,advance accounting,northcentral university,usa,23.0,1,0,0,industry and teaching experience
+leeds,phd,bachelor masters,management sciences,walden university,usa,27.0,0,1,1,industry and teaching experience
+bolton,mphil,masters,commerce,university of madras,india,21.0,0,0,0,industry and teaching experience
+bolton,masters,bachelor masters,business,university of newcastle,australia,30.0,0,0,0,industry and teaching experience
+bolton,mba,masters,business administration,nelsonmandela metropolitan university,south africa,21.0,0,0,0,industry and teaching experience
+birmingham,phd,bachelor masters,economics,university of pretoria,south africa,16.0,0,0,0,industry and teaching experience
+birmingham,phd,bachelor masters,management information system,argosy university,usa,14.0,0,0,0,industry and teaching experience
+oxford,phd,bachelor diploma masters phd,commerce,oxford university,uk,30.0,0,0,0,industry and teaching experience
+oxford,phd,bachelor masters phd,social science,tilburg university,netherlands,21.0,0,0,0,industry and teaching experience
+oxford,emba,bachelor masters,strategic management,higher colleges of technolgy,uae,22.5,0,0,0,industry experience
+oxford,mcom,bachelor diploma masters,marketing,university of new south wales,australia,22.0,0,0,0,industry and teaching experience
+oxford,mba,bachelor masters,business administration,troy university,usa,25.0,0,0,0,industry and teaching experience
+oxford,phd,bachelor masters phd,marketing,university of alberta,canada,35.0,1,0,0,industry and teaching experience
+oxford,phd,bachelor masters phd,business administration,batangas state university,philippines,18.0,0,0,0,industry and teaching experience
+oxford,emba,bachelor masters,strategic management,harvard university,usa,22.5,0,0,0,industry experience
+oxford,mba,bachelor masters,business administration,york university,uk,14.0,0,0,0,industry and teaching experience
+oxford,mba,certificate bachelor masters,innovative management,coventry university,uk,14.0,1,0,0,industry and teaching experience
+oxford,phd,bachelor masters,management,university of nice,france,13.0,0,1,0,industry and teaching experience
+oxford,dba,bachelor masters,management,tbilisi state university,georgia,20.0,0,0,0,industry and teaching experience
+oxford,phd,bachelor masters,organization and management,capella university,usa,23.0,1,0,1,industry and teaching experience
+oxford,dba,bachelor masters,business leadership,grenoble ecole de management,france,20.0,0,0,0,industry and teaching experience
+oxford,dba,bachelor masters,accounting and finance,universitidad azteca,mexico,19.0,0,1,0,industry and teaching experience
+oxford,phd,bachelor masters,hrm and organizational behaviour,cardiff metropolian university,uk,32.0,0,1,0,industry and teaching experience
+southampton,mba,bachelor masters,business administration,waikato university,new zealand,43.0,0,0,0,industry and teaching experience
+southampton,mba,bachelor masters,business administration,open university,uk,24.0,0,0,0,industry and teaching experience
+southampton,mba,bachelor masters,business administration,yarmouk university,jordan,15.0,0,0,0,industry and teaching experience
+leicester,mba,masters,ecommerce,university of kent,uk,22.5,0,0,0,industry experience
+leicester,phd,bachelor masters phd,management,banasthali vidyapith,india,22.5,0,0,0,industry experience
+leicester,ma,bachelor diploma masters,marketing management,university of derby,uk,22.5,0,0,0,industry experience
+leicester,masters,bachelor masters,educational technology,university of southern queensland,australia,22.5,0,0,0,industry experience
+leicester,phd,bachelor masters,accounting,philippine christian university,uae,15.0,1,0,0,industry and teaching experience
+leicester,phd,bachelor masters,accounting,amman arab university,jordan,24.0,1,0,0,industry and teaching experience
+leicester,phd,bachelor masters,accounting,panteion university,greece,20.0,0,1,0,industry and teaching experience
+cambridge,mba,bachelor masters,business administration,university of western ontario,canada,22.5,1,0,0,industry experience
+cambridge,msc,bachelor masters,tourism tourist and hotel management,alexandria university,egypte,22.5,0,0,0,industry experience
+cambridge,mba,bachelor masters,business administration,university of western australia,australia,22.5,0,0,0,industry experience
+cambridge,mba,bachelor diploma masters,business administration,university of huddersfield,uk,22.5,0,0,0,industry experience
+cambridge,mphil,bachelor masters,management,university of madras,india,22.5,0,0,0,industry experience
+cambridge,mba,bachelor diploma masters,risk management and fs analysis,university college dublin,irlande,22.5,0,0,0,industry experience
+cambridge,bachelor,bachelor diploma masters,ebusiness management,sharjah womens college,uae,22.5,0,0,0,industry experience
+cambridge,mba,bachelor masters,management,amberton university,usa,22.5,0,0,0,industry experience
+cambridge,mba,bachelor diploma masters,agricultural economics,university of guelph,canada,22.5,0,0,0,industry experience
+cambridge,phd,bachelor masters phd,management,birla institute of technology and science,india,22.5,0,0,0,industry experience
+cambridge,mba and msc,masters,energy management,university of ulster,uk,22.5,0,0,0,industry experience
+cambridge,msc,masters,management,university of punjab,pakistan,22.5,1,0,0,industry experience
+cambridge,mba,certificate bachelor diploma masters,business administration,university of madras,india,22.5,0,0,0,industry experience
+cambridge,phd,bachelor masters,islamic nanking and finance,durham university,uk,19.0,0,1,1,industry and teaching experience
+cambridge,phd,bachelor masters,economics,south east european university,macedonia,20.0,0,1,0,industry and teaching experience
+cambridge,phd,bachelor masters,marketing,university of economics,poland,35.0,0,1,1,industry and teaching experience
+cambridge,phd,bachelor masters,hrm,university of mauritus,mauritus,23.0,1,1,0,industry and teaching experience
+cambridge,phd,bachelor masters,economic sociology,university of san paulo,brazil,23.0,0,1,0,industry and teaching experience
+cambridge,phd,bachelor masters,financial management,virginia commonwealth university,usa,27.0,0,1,0,industry and teaching experience
